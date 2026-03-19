@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hazem Hamada
-### 🚀 Future Software Engineer | Cybersecurity Enthusiast | Problem Solver
+### 🚀 Software Engineer | Problem Solver
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -11,7 +11,7 @@
 
 ### 🎓 About Me
 - ⚡ **Student:** 2nd Year ICT Student at New Cairo Technological University.
-- 🎯 **Goal:** Building high-performance software and mastering penetration testing.
+- 🎯 **Goal:** Building high-performance software and mastering Software Engineering - Full Stack Web
 - 📚 **Learning Path:** Currently following a professional 27-course Software Engineering roadmap.
 
 ### 🛠️ Current Technical Stack (Roadmap Progress: 1-7 & 9)
