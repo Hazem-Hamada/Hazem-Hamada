@@ -14,7 +14,7 @@
 - 🎯 **Goal:** Building high-performance software and mastering Software Engineering - Full Stack Web
 - 📚 **Learning Path:** Currently following a professional 27-course Software Engineering roadmap.
 
-### 🛠️ Current Technical Stack (Roadmap Progress: 1-7 & 9)
+### 🛠️ Current Technical Stack (Roadmap Progress: 10)
 - **Languages:** Mastery of C++ (Basic & Advanced).
 - **Core CS:** Algorithms, Problem Solving, and Software Engineering Foundations.
 - **Foundations:** Deep knowledge in Networking (TCP/IP, DNS, IP Mapping) and System Architecture (3-Tier).
