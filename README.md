@@ -10,7 +10,7 @@
 ---
 
 ### 🎓 About Me
-- ⚡ **Student:** 2nd Year ICT Student at New Cairo Technological University.
+- ⚡ **Student:** 3nd Year ICT Student at New Cairo Technological University.
 - 🎯 **Goal:** Building high-performance software and mastering Software Engineering - Full Stack Web
 - 📚 **Learning Path:** Currently following a professional 27-course Software Engineering roadmap.
 
